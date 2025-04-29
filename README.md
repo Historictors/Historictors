@@ -7,10 +7,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Personal Portfolio**
+- 🔭 I’m currently working on: **Web-Development**
 - 🌱 I’m currently learning: **React.js | GSAP | Tailwind CSS**
 - 👨‍💻 All my projects are available at: [GitHub Projects](https://github.com/historictors)
-- 📫 Reach me at: **sn343555@gmail.com**
+- 📫 Reach me at: **historictor@gmail.com**
 
 ---
 
