@@ -16,7 +16,7 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Aadesh%20Jogi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-jogi-54a16731b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-jogi-54a16731b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/aadeshjogii)
 
 ---
