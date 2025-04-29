@@ -51,31 +51,17 @@ VS Code
 </div>
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=historictors&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=historictors&layout=compact&theme=radical&langs_count=8"/>
-
-GitHub Streak
-
-trophy
-
-Activity Graph
 </div>
 
 <div align="center">
 
-LeetCode
-LinkedIn
-Gmail
 </div>
 
 <div align="center">
 
-Snake Animation
-
-Random Dev Quote
-
-Music
 </div>
 
 <div align="center">
 
 Footer
-</div> ```
+</div> 
