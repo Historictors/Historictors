@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Subham Nayak</h1>
+<h1 align="center">👋 Aadesh Jogi</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+In+Progress;Exploring+Full-Stack+Development;B.Tech+CS+Student;Open+to+Learn+%26+Build&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
