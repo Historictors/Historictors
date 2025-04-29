@@ -9,18 +9,15 @@
 
 - 🔭 I’m currently working on: **Personal Portfolio**
 - 🌱 I’m currently learning: **React.js | GSAP | Tailwind CSS**
-- 👨‍💻 All my projects are available at: [GitHub Projects](https://github.com/Shubham-cyber-prog)
+- 👨‍💻 All my projects are available at: [GitHub Projects](https://github.com/historictors)
 - 📫 Reach me at: **sn343555@gmail.com**
-- 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/18LQPmXDf634owLnqbpXtWU4CICSZixSO/view?usp=drivesdk)
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Subham%20Nayak-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-nayak-00276930b)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/subham_nayak06)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sn343555)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/010806/)
+[![LinkedIn](https://img.shields.io/badge/Subham%20Nayak-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-jogi-54a16731b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/aadeshjogii)
 
 ---
 
@@ -32,21 +29,22 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-cyber-prog&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=historictors&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubham-cyber-prog&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=historictors&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
