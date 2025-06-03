@@ -17,7 +17,7 @@
 ```javascript
 const aadesh = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "C++", "Python"],
+  code: ["JavaScript", "C++"],
   askMeAbout: ["web dev", "tech", "algorithms"],
   technologies: {
     frontend: {
@@ -26,9 +26,7 @@ const aadesh = {
     },
     backend: ["Node.js", "Express"],
     databases: ["MongoDB", "Firebase"],
-    devOps: ["Docker", "Git"],
-    currentlyLearning: ["Three.js", "WebGL"],
-    funFact: "I can solve Rubik's cube in under 2 minutes!"
+    devOps: ["Git"],
   }
 };
 
