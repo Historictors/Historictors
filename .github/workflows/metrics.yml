@@ -13,7 +13,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.MY_SECRET_TOKEN }}
-          user: shubham-cyber-prog
+          user: historictors
           template: classic
           config_timezone: Asia/Kolkata
           config_notable: yes
@@ -63,10 +63,10 @@ jobs:
           plugin_topics_sort: stars
 
           # ⌨️ WakaTime Coding Activity
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
+          # plugin_wakatime: yes
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          # plugin_wakatime_days: 7
+          # plugin_wakatime_limit: 5
 
           # 💬 Reactions
           plugin_reactions: yes
